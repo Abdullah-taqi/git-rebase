@@ -1,0 +1,7 @@
+This is main file
+<<<<<<< HEAD
+This feature is added by developer 2
+=======
+This feature is added by developer 1
+>>>>>>> da84b92 (Second Commit)
+
